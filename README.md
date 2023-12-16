@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... shajibhassan71@gmail.com
+- 📫 How to reach me ... shajibhassan71@gmail.com,
+- LinkedIn - www.linkedin.com/in/shajib-hasan
 
 <!---
 Shajib1312/Shajib1312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
